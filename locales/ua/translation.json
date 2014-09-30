@@ -3,529 +3,527 @@
         "name": "NHZ"
     },
     "nav": {
-        "sendnhz": "Отправить NHZ",
-        "sendmsg": "Отправить сообщение",
-        "gentoken": "Создать токен",
-        "settings": "Настройки",
-        "nhzchat": "IRC Чат",
-        "nhzforum": "Форум NHZ",
-        "tutorial": "Описание интерфейса",
-        "aetutorial": "Руководство по работе с Биржей Активов",
-        "logout": "Выход",
-        "logoutandstop": "Выйти и остановить форжинг"
+        "sendnhz": "Відправити NHZ"
+        "sendmsg": "Відправити повідомлення"
+        "gentoken": "Створити токен"
+        "settings": "Налаштування"
+        "nhzchat": "IRC Чат"
+        "nhzforum": "Форум NHZ"
+        "tutorial": "Опис інтерфейсу"
+        "aetutorial": "Керівництво по роботі з Біржею Активів"
+        "logout": "Вихід"
+        "logoutandstop": "Вийти і зупинити форжинг"
     },
     "sidebar": {
-        "accountinfo": "Имя не установлено",
-        "copyid": "Скопировать адрес аккаунта",
-        "copynumericid": "Скопировать номер аккаунта",
-        "copymsglink": "Скопировать ссылку отправки сообщения",
-        "copynhzlink": "Скопировать ссылку отправки NHZ",
-        "searchbox": "Поиск по адресу...",
-        "dashboard": "Обзор",
-        "transactions": "Транзакции",
-        "ae": "Биржа Активов",
-        "myassets": "Мои активы",
-        "openorders": "Открытые ордера",
-        "issue": "Создать актив",
-        "contacts": "Контакты",
-        "messages": "Сообщения",
-        "aliases": "Альясы",
-        "polls": "Опросы/Голосования",
-        "blocks": "Блоки",
-        "peers": "Актуальный список узлов",
-        "news": "Новости"
+        "accountinfo": "Ім'я не встановлене"
+        "copyid": "Скопіювати адресу аккаунта"
+        "copynumericid": "Скопіювати номер аккаунта"
+        "copymsglink": "Скопіювати посилання відправки повідомлення"
+        "copynhzlink": "Скопіювати посилання відправки NHZ"
+        "searchbox": "Пошук за адресою.".,
+        "dashboard": "Огляд"
+        "transactions": "Транзакції"
+        "ae": "Біржа Активів"
+        "myassets": "Мої активи"
+        "openorders": "Відкриті ордери"
+        "issue": "Створити актив"
+        "contacts": "Контакти"
+        "messages": "Повідомлення"
+        "aliases": "Альясы"
+        "polls": "Опитування/Голосування"
+        "blocks": "Блоки"
+        "peers": "Актуальний список вузлів"
+        "news": "Новини"
     },
     "dashboard": {
-        "dashboard": "Обзор",
-        "warning": "<b>Внимание!</b> Ваш аккаунт не имеет открытого ключа! Это означает, что Ваш аккаунт не защищен должным образом. Вы должны сделать хотя бы одну исходящую транзакцию, чтобы исправить эту проблему.",
-        "sendmsg": "Отправить сообщение",
-        "buyalias": "Купить альяс",
-        "sendnhz": "Отправить NHZ",
-        "balance": "Баланс аккаунта",
-        "fbalance": "Нафорженный баланс",
-        "moreinfo": "Дополнительная информация",
-        "assetsowned": "Собственные Активы",
-        "nrsversion": "Версия NRS",
-        "recenttransactions": "Последние Транзакции",
-        "date": "Дата",
-        "amountnfee": "Сумма + Комиссия",
-        "acc": "Аккаунт",
-        "conf": "Подтв.",
-        "notrans": "Еще нет транзакций.",
-        "viewmore": "Посмотреть больше",
-        "recentblocks": "Последние блоки",
-        "height": "Высота",
-        "nrtx": "Кол.тр.",
-        "noblocks": "Не найдено блоков."
+        "dashboard": "Огляд"
+        "warning": "<b>Увага!</b> Ваш аккаунт не має відкритого ключа! Це означає, що Ваш аккаунт не захищений належним чином. Ви повинні зробити хоч би одну витікаючу транзакцію, щоб виправити цю проблему".,
+        "sendmsg": "Відправити повідомлення"
+        "buyalias": "Купити альяс"
+        "sendnhz": "Відправити NHZ"
+        "balance": "Баланс аккаунта"
+        "fbalance": "Нафорженный баланс"
+        "moreinfo": "Додаткова інформація"
+        "assetsowned": "Власні Активи"
+        "nrsversion": "Версія NRS"
+        "recenttransactions": "Останні Транзакції"
+        "date": "Дата"
+        "amountnfee": "Сума + Комісія"
+        "acc": "Аккаунт"
+        "conf": "Конфігурація".,
+        "notrans": "Ще немає транзакцій".,
+        "viewmore": "Подивитися більше"
+        "recentblocks": "Останні блоки"
+        "height": "Висота"
+        "nrtx": "Кол.тр".,
+        "noblocks": "Не знайдено блоків".
     },
     "transactions": {
-        "transactions": "Транзакции",
-        "alltransactions": "Все транзакции",
-        "ordinary": "Обычный Платеж",
-        "arbitrary": "Произвольное сообщение",
-        "alias": "Назначение альяса",
-        "poll": "Создание опроса",
-        "vote": "Голосование",
-        "asseti": "Выпуск актива",
-        "assett": "Отправка актива",
-        "askorder": "Размещение ордера на покупку",
-        "bidorder": "Размещение ордера на продажу",
-        "cancelask": "Отменить ордер на покупку",
-        "cancelbid": "Отменить ордер на продажу",
-        "unconfirmed": "Неподтвержденные транзакции",
-        "transid": "Номер транзакции",
-        "date": "Дата",
-        "type": "Тип",
-        "amount": "Сумма",
-        "fee": "Комиссия",
-        "account": "Аккаунт",
-        "confirm": "Подтверждения",
-        "notrans": "Не найдено транзакций."
+        "transactions": "Транзакції"
+        "alltransactions": "Усі транзакції"
+        "ordinary": "Звичайний Платіж"
+        "arbitrary": "Довільне повідомлення"
+        "alias": "Призначення альяса"
+        "poll": "Створення опитування"
+        "vote": "Голосування"
+        "asseti": "Випуск активу"
+        "assett": "Відправка активу"
+        "askorder": "Розміщення ордера на купівлю"
+        "bidorder": "Розміщення ордера на продаж"
+        "cancelask": "Відмінити ордер на купівлю"
+        "cancelbid": "Відмінити ордер на продаж"
+        "unconfirmed": "непідтверджені транзакції"
+        "transid": "Номер транзакції"
+        "date": "Дата"
+        "type": "Тип"
+        "amount": "Сума"
+        "fee": "Комісія"
+        "account": "Аккаунт"
+        "confirm": "Підтвердження"
+        "notrans": "Не знайдено транзакцій".
     },
     "messages": {
-        "messages": "Сообщения",
-        "loading": "Идет загрузка, пожалуйста, подождите",
-        "contsel": "Пожалуйста, выберите контакт в левой боковой панели.",
-        "noavailable": "Сообщений нет, ",
-        "sendone": "Отправить одно",
-        "message": "Сообщение",
-        "secret": "Пароль",
-        "encrypt": "Шифрование<input type='checkbox' name='inline_message_encrypt' id='inline_message_encrypt' value='1' />",
-        "send": "Отправить",
-        "submit": "Отправка..."
+        "messages": "Повідомлення"
+        "loading": "Йде завантаження, будь ласка, почекайте"
+        "contsel": "Будь ласка, виберіть контакт в лівій бічній панелі".,
+        "noavailable": "Повідомлень немає ",
+        "sendone": "Відправити одно"
+        "message": "Повідомлення"
+        "secret": "Пароль"
+        "encrypt": "Шифрування<input type='checkbox' name='inline _ message _ encrypt' id='inline _ message _ encrypt' value='1' />",
+        "send": "Відправити"
+        "submit": "Відправка.".
     },
     "contacts": {
-        "contacts": "Контакты",
-        "add": "Добавить контакт",
-        "dberror": "Ваш браузер не поддерживает доступ к базе данных, без чего не могут создаваться контакты.",
-        "name": "Имя",
-        "acc": "Адрес аккаунта",
-        "mail": "E-mail адрес",
-        "desc": "Описание",
-        "action": "Действия",
-        "nocontacts": "Контактов еще нет, ",
-        "addone": "добавить один."
+        "contacts": "Контакти"
+        "add": "Додати контакт"
+        "dberror": "Ваш браузер не підтримує доступ до бази даних, без чого не можуть створюватися контакти".,        "name": "Ім'я",
+        "acc": "Адреса аккаунта"
+        "mail": "E - mail адреса"
+        "desc": "Опис"
+        "action": "Дії"
+        "nocontacts": "Контактів ще немає ",
+        "addone": "додати один".
     },
     "polls": {
-        "polls": "Опросы",
-        "create": "Создать опрос",
-        "title": "Название",
-        "desc": "Описание",
-        "sender": "Отправитель",
-        "start": "Дата старта",
-        "vote": "Голосовать",
-        "nopolls": "Опросов не найдено."
+        "polls": "Опитування"
+        "create": "Створити опитування"
+        "title": "Назва"
+        "desc": "Опис"
+        "sender": "Посилач"
+        "start": "Дата старту"
+        "vote": "Голосувати"
+        "nopolls": "Опитувань не знайдено".
     },
     "alias": {
-        "alias": "Альясы",
-        "search": "Поиск альясов ...",
-        "register": "Зарегистрировать альяс",
-        "owned": "Собственные альясы",
-        "empty": "Пустые альясы",
-        "uri": "Альясы для URI",
-        "account": "Альясы для адреса аккаунта",
-        "aliass": "Альяс",
-        "urii": "URI",
-        "edit": "Редактировать",
-        "noalias": "Еще нет альясов,",
-        "registerr": "зарегистрировать один!",
-	"pending": "Ожидание"
+        "alias": "Альясы"
+        "search": "Пошук альясов .".,
+        "register": "Зареєструвати альяс"
+        "owned": "Власні альясы"
+        "empty": "Порожні альясы"
+        "uri": "Альясы для URI"
+        "account": "Альясы для адреси аккаунта"
+        "aliass": "Альяс"
+        "urii": "URI"
+        "edit": "Редагувати"
+        "noalias": "Ще немає альясов",
+        "registerr": "зареєструвати один"!,
+	"pending": "Очікування"
     },
     "openorders": {
-        "openorders": "Открытые ордера",
-        "sell": "Ордера на продажу",
-        "asset": "Актив",
-        "qty": "Количество",
-        "price": "Цена",
-        "total": "Всего",
-        "cancel": "Отмена",
-        "nosell": "Нет открытых ордеров на продажу.",
-        "buy": "Ордера на покупку",
-        "nobuy": "Нет открытых ордеров на покупку."
+        "openorders": "Відкриті ордери"
+        "sell": "Ордери на продаж"
+        "asset": "Актив"
+        "qty": "Кількість"
+        "price": "Ціна"
+        "total": "Всього"
+        "cancel": "Відміна"
+        "nosell": "Немає відкритих ордерів на продаж".,
+        "buy": "Ордери на купівлю"
+        "nobuy": "Немає відкритих ордерів на купівлю".
     },
     "myassets": {
-        "myassets": "Мои Активы",
-        "total": "Всего в наличии",
-        "percent": "Процент",
-        "lowask": "Минимальная цена покупки",
-        "highbid": "Максимальная цена продажи",
-        "value": "Сумма в NHZ",
-        "transfer": "Отправка",
-        "noassets": "Активы отсутствуют, можно купить несколько на бирже!"
+        "myassets": "Мої Активи"
+        "total": "Всього в наявності"
+        "percent": "Відсоток"
+        "lowask": "Мінімальна ціна купівлі"
+        "highbid": "Максимальна ціна продажу"
+        "value": "Сума в NHZ"
+        "transfer": "Відправка"
+        "noassets": "Активи відсутні, можна купити декілька на біржі"!
     },
     "aepage": {
-        "aepage": "Биржа Активов",
-        "clear": "Очистить результаты поиска",
-        "search": "Поиск ...",
-        "load": "Идет загрузка, пожалуйста, подождите",
-        "noavailable": "Нет активов.",
-        "select": "Пожалуйста, выберите актив в левой боковой панели.",
-        "assetload": "Данные актива загружаются, пожалуйста, подождите...",
-        "warning": "<strong>Внимание</strong>: На Бирже Активов есть активы <span></span> с одинаковыми именами. Пожалуйста, убедитесь в том, что Вы выбрали правильный актив. Проверьте номера аккаунтов и Активов на совпадение.",
-        "account": "Аккаунт",
-        "id": "Адрес Актива",
-        "copyid": "Скопировать адрес актива",
-        "copylink": "Скопировать ссылку на актив",
-        "qty": "Количество",
-        "decimals": "Десятичные части Актива",
-        "buy": "Купить <span class='asset_name'></span> за NHZ",
-        "bal": "Баланс",
-        "price": "Цена",
-        "total": "Всего",
-        "fee": "Комиссия",
-        "buya": "Купить (NHZ → <span class='asset_name'></span>)",
-        "sello": "Ордера на продажу <span id='sell_orders_count'></span>",
-        "nosell": "Нет ордеров на продажу этого актива.",
-        "sell": "Продать <span class='asset_name'></span> за NHZ",
-        "sella": "Продать (<span class='asset_name'></span> → NHZ)",
-        "buyo": "Ордера на покупку <span id='buy_orders_count'></span>",
-        "nobuy": "Нет ордеров на покупку этого актива.",
-        "history": "История торгов",
-        "date": "Дата",
-        "askid": "Номер ордера на покупку",
-        "bidid": "Номер ордера на продажу",
-        "nohistory": "История торгов не доступна.",
-	"bookmark": "Добавить в закладки этот актив",
-	"addasset": "Добавить актив",
-	"notfound": "Не найдено активов, соответствующих поисковому запросу.",
-	"assetoraccountid": "НОМЕР АКТИВА ИЛИ АККАУНТА <i class='fa fa-question-circle show_popover' style='color:#4CAA6E' data-content='Найдите идентификатор (ID) актива на вебсайте эмитента или на странице анонсов.' data-container='body'></i>",
-	"id": "Номер",
-	"cancel": "Отмена"
+        "aepage": "Біржа Активів"
+        "clear": "Очистити результати пошуку"
+        "search": "Пошук .".,
+        "load": "Йде завантаження, будь ласка, почекайте"
+        "noavailable": "Немає активів".,
+        "select": "Будь ласка, виберіть актив в лівій бічній панелі.",
+        "assetload": "Дані активу завантажуються, будь ласка, почекайте.",
+        "warning": "<strong>Увага</strong>: На Біржі Активів є активи <span></span> з однаковими іменами. Будь ласка, переконаєтеся в тому, що Ви вибрали правильний актив. Перевірте номери аккаунтів і Активів на збіг".,
+        "account": "Аккаунт"
+        "id": "Адреса Активу"
+        "copyid": "Скопіювати адресу активу"
+        "copylink": "Скопіювати посилання на актив"
+        "qty": "Кількість"
+        "decimals": "Десяткові частини Активу"
+        "buy": "Купити <span class='asset _ name'></span> за NHZ"
+        "bal": "Баланс"
+        "price": "Ціна"
+        "total": "Всього"
+        "fee": "Комісія"
+        "buya": "Купити(NHZ →<span class='asset _ name'></span>) ",
+        "sello": "Ордери на продаж <span id='sell _ orders _ count'></span>",
+        "nosell": "Немає ордерів на продаж цього активу.",
+        "sell": "Продати <span class='asset _ name'></span> за NHZ"
+        "sella": "Продати(<span class='asset _ name'></span> → NHZ) ",
+        "buyo": "Ордери на купівлю <span id='buy _ orders _ count'></span>",
+        "nobuy": "Немає ордерів на купівлю цього активу.",
+        "history": "Історія торгів"
+        "date": "Дата"
+        "askid": "Номер ордера на купівлю"
+        "bidid": "Номер ордера на продаж"
+        "nohistory": "Історія торгів не доступна.",
+	"bookmark": "Додати в закладки цей актив"
+	"addasset": "Додати актив"
+	"notfound": "Не знайдено активів, що відповідають пошуковому запиту".,
+	"assetoraccountid": "НОМЕР АКТИВУ ИЛИ АККАУНТА <i class='fa fa - question - circle show _ popover' style='color:#4CAA6E' data - content='Знайдіть ідентифікатор(ID) активу на вебсайті емітента або на сторінці анонсів.' data - container='body'></i>",
+	"id": "Номер"
+	"cancel": "Відміна"
     },
     "config": {
-        "settings": "Настройки",
-        "general": "Общие",
-        "submitonenter": "Отправлять формы при нажатии Enter",
-        "yes": "Да",
-        "no": "Нет",
-        "submitenterwarning": "Будьте внимательны, при нажатии на кнопку Enter произойдет отсылка формы, отсылка не может быть отменена.",
-        "users": "Использовать формат Reed Solomon",
-        "rsdesc": "Формат Reed Solomon имеет встроенную функцию защиты от ошибок.",
-        "animforging": "Анимировать индикатор форжинга",
-        "enablenews": "Включить раздел новостей",
-        "choose": "Выбор",
-        "formwarnings": "Формы предупреждений",
-        "warnamounthigher": "Показывать предупреждение, когда введенные сумма / комиссия выше чем указано ниже.",
-        "maxamwarning": "Предупреждение о максимальной сумме",
-        "maxfeewarning": "Предупреждение о максимальной комиссии",
-        "maxaetwarning": "Предупреждение при передаче активов более указанного максимума.",
-        "themeset": "Настройки тем",
-        "header": "Заголовок",
-        "selectcolor": "Выбор цветовой схемы",
-        "side": "Боковая панель.",
-        "pageheader": "Заголовок страницы",
-		"languages": "Язык"
+        "settings": "Налаштування"
+        "general": "Загальні"
+        "submitonenter": "Відправляти форми при натисненні Enter"
+        "yes": "Так"
+        "no": "Ні"
+        "submitenterwarning": "Будьте уважні, при натисненні на кнопку Enter станеться відсилання форми, відсилання не може бути скасоване".,
+        "users": "Використати формат Reed Solomon"
+        "rsdesc": "Формат Reed Solomon має вбудовану функцію захисту від помилок".,
+        "animforging": "Анімувати індикатор форжинга"
+        "enablenews": "Включити розділ новин"
+        "choose": "Вибір"
+        "formwarnings": "Форми попереджень"
+        "warnamounthigher": "Показувати попередження, коли введені сума / комісія вище чим вказано нижче".,
+        "maxamwarning": "Попередження про максимальну суму"
+        "maxfeewarning": "Попередження про максимальну комісію"
+        "maxaetwarning": "Попередження при передачі активів більше вказаного максимуму".,
+        "themeset": "Налаштування теми"
+        "header": "Заголовок"
+        "selectcolor": "Вибір колірної схеми"
+        "side": "Бічна панель".,
+        "pageheader": "Заголовок сторінки"
+		"languages": "Мова"
     },
     "peers": {
-        "peers": "Актуальный список узлов",
-        "uploaded": "Выгруженный объем",
-        "downloaded": "Загруженный объем",
-        "connected": "Подключенные узлы",
-        "uptodate": "Обновленные узлы",
-        "adress": "Адрес",
-        "weight": "Вес",
-        "up": "Выгружено",
-        "down": "Загружено",
-        "appl": "Приложение",
-        "platf": "Платформа",
-        "nopeers": "Узлов не найдено."
+        "peers": "Актуальний список вузлів"
+        "uploaded": "Вивантажений об'єм"
+        "downloaded": "Завантажений об'єм"
+        "connected": "Підключені вузли"
+        "uptodate": "Оновлені вузли"
+        "adress": "Адреса"
+        "weight": "Вес"
+        "up": "Вивантажено"
+        "down": "Завантажено"
+        "appl": "Додаток"
+        "platf": "Платформа"
+        "nopeers": "Вузлів не знайдено".
     },
     "news": {
-        "news": "Новости",
-        "disabled": "Раздел Новостей в настоящее время отключен. <a href='#' id='rss_news_enable'>Кликните здесь, </a> чтобы включить."
+        "news": "Новини"
+        "disabled": "Розділ Новин нині відключений. <a href='#' id='rss _ news _ enable'>Кликніть тут </a> щоб включити".
     },
     "blocks": {
-        "blocks": "Блоки",
-        "allblocks": "Все блоки<input type='radio' name='blocks_page_type'>",
-        "byyou": "Сфоржено Вами<input type='radio' name='blocks_page_type'>",
-        "avperblock": "Средняя сумма за блок",
-        "avfee": "Средняя комиссия за блок",
-        "transperh": "Транзакций в час",
-        "gentime": "Время генерации блока",
-        "fblocks": "Сфорженные блоки",
-        "ffees": "Всего нафоржено комиссии",
-        "generator": "Генератор",
-        "payload": "Комерческая нагрузка",
-        "target": "Базовая цель",
-        "noblocks": "Блоков не найдено."
+        "blocks": "Блоки"
+        "allblocks": "Усі блоки<input type='radio' name='blocks _ page _ type'>",
+        "byyou": "Сфоржено Вами<input type='radio' name='blocks _ page _ type'>",
+        "avperblock": "Середня сума за блок"
+        "avfee": "Середня комісія за блок"
+        "transperh": "Транзакцій в годину"
+        "gentime": "Час генерації блоку"
+        "fblocks": "Сфорженные блоки"
+        "ffees": "Всього нафоржено комісії"
+        "generator": "Генератор"
+        "payload": "Комерческая навантаження"
+        "target": "Базова мета"
+        "noblocks": "Блоків не знайдено".
     },
     "lockscreen": {
-        "oldb": "Вы используете старый браузер, не поддерживающий это приложение.",
-        "testn": "Войдите в систему с аккаунтом  <strong>TestNet</strong> - не с Вашим реальным аккаунтом!",
-        "yoursecretphrase": "Ваш пароль",
-        "rememberme": "Запомнить пароль в течение сессии",
-        "noacc": "Нет аккаунта? Кликните здесь, чтобы создать аккаунт!",
-        "welcome": "<span class='glyphicon glyphicon-lock'></span> Добро пожаловать в NHZ!",
-        "return": "Зарегистрированный пользователь?",
-        "new": "Новый? Создайте Ваш Аккаунт!",
-        "createbtn": "<span class='glyphicon glyphicon-lock'></span> Создайте Ваш Аккаунт",
-        "phraseinfo": "Ваш пароль должен содержать не менее 35 символов.",
-        "phrasewarning": "<strong>Внимание</strong>: Никогда не раскрывайте свой пароль! Если Вы его потеряете, Вы потеряете доступ к Вашему аккаунту!",
-        "phrase": "Пароль",
-        "repeat": "Повторить",
-        "cancel": "Отмена",
-        "loadlist": "Загрузка списка слов",
-        "move": "Перемещайте курсор вокруг, чтобы инициализировать генератор случайных чисел...",
-        "seeded": "Прогресс 0%",
-        "genphrase": "Генерируется Ваш пароль. Пожалуйста, подождите",
-        "yourphraseis": "Ваш автоматически сгенерированный пароль:",
-        "writedown": "Пожалуйста, запишите и сохраните эти 12 слов (их последовательность и порядок важны - всегда прописные буквы). Этот пароль нужен для получения доступа в Ваш NHZ аккаунт.",
-        "dontdisclose": "<strong>Внимание</strong>: Никогда не раскрывайте свой пароль! Если Вы его потеряете, Вы потеряете доступ к Вашему аккаунту!",
-        "important": "Ваш пароль очень важен! Чтобы быть уверенным, что Вы сохранили его, пожалуйста, введите свой пароль ниже:",
-        "notcorrect": "Вы сделали ошибку при вводе пароля, пожалуйста, попробуйте снова!",
-        "chooseown": "Хотите выбрать свой собственный пароль? Кликните здесь."
+        "oldb": "Ви використовуєте старий браузер, що не підтримує це застосування".,
+        "testn": "Увійдіть до системи з аккаунтом  <strong>TestNet</strong> - не з Вашим реальним аккаунтом"!,
+        "yoursecretphrase": "Ваш пароль"
+        "rememberme": "Запам'ятати пароль впродовж сесії"
+        "noacc": "Немає аккаунта? Кликніть тут, щоб створити аккаунт"!,
+        "welcome": "<span class='glyphicon glyphicon - lock'></span> Ласкаво просимо в NHZ"!,
+        "return": "Зареєстрований користувач"?,
+        "new": "Новий? Створіть Ваш Аккаунт"!,
+        "createbtn": "<span class='glyphicon glyphicon - lock'></span> Створіть Ваш Аккаунт"
+        "phraseinfo": "Ваш пароль повинен містити не менше 35 символів".,
+        "phrasewarning": "<strong>Увага</strong>: Ніколи не розкривайте свій пароль! Якщо Ви його втратите, Ви втратите доступ до Вашого аккаунта"!,
+        "phrase": "Пароль"
+        "repeat": "Повторити"
+        "cancel": "Відміна"
+        "loadlist": "Завантаження списку слів"
+        "move": "Переміщайте курсор навкруги, щоб ініціалізувати генератор випадкових чисел.".,
+        "seeded": "Прогрес 0%"
+        "genphrase": "Генерується Ваш пароль. Будь ласка, почекайте"
+        "yourphraseis": "Ваш автоматично згенерований пароль:",
+        "writedown": "Будь ласка, запишіть і збережіть ці 12 слів(їх послідовність і порядок важливі - завжди прописні букви). Цей пароль потрібний для діставання доступу у Ваш NHZ аккаунт".,
+        "dontdisclose": "<strong>Увага</strong>: Ніколи не розкривайте свій пароль! Якщо Ви його втратите, Ви втратите доступ до Вашого аккаунта"!,
+        "important": "Ваш пароль дуже важливий! Щоб бути упевненим, що Ви зберегли його, будь ласка, введіть свій пароль нижче:",
+        "notcorrect": "Ви зробили помилку при введенні пароля, будь ласка, спробуйте знову"!,
+        "chooseown": "Хочете вибрати свій власний пароль? Кликніть тут".
     },
     "modals": {
-        "leaseyourbal": "Сдать в аренду Ваш баланс",
-        "leasewarning": "<strong>Помните</strong>: после подтверждения договора аренды, он не может быть отменен.",
-        "rec": "ПОЛУЧАТЕЛЬ",
-        "recacc": "Аккаунт получателя",
-        "period": "ПЕРИОД <i class='fa fa-question-circle show_popover' style='color:#4CAA6E' data-content='Количество блоков, в течении которых будет длиться аренда.' data-container='body'></i>",
-        "fee": "КОМИССИЯ",
-        "deadline": "Крайний срок (часы)",
-        "phrase": "ПАРОЛЬ",
-        "leasebalancebtn": "Сдать баланс в аренду",
-        "confirmforgingstop": "Подтвердите остановку форжинга<span class='show_logout'> &amp; Logout</span>",
-        "confirmphrase": "Если Вы уверены, что хотите остановить форжинг, введите Ваш пароль для подтверждения.",
-        "confirmphrasebtn": "Если Вы уверены, что хотите остановить форжинг, нажмите на кнопку ниже для подтверждения.",
-        "warnsendtoserver": "<strong>Внимание</strong>: Ваш пароль будет отправлен на сервер!",
-        "continueforging": "Продолжить форжинг",
-        "stopforging": "Остановить форжинг <span class='show_logout'>и выйти</span>",
-        "confirmforgingstart": "Подтвердите начало форжинга",
-        "confirmforgingphrase": "Если Вы уверены, что хотите начать форжинг, введите Ваш пароль для подтверждения.",
-        "confirmforgingphraseclick": "Если Вы уверены, что хотите начать форжинг, нажмите на кнопку ниже для подтверждения.",
-        "startforging": "Начать форжинг",
-        "confirmordercancel": "Подтвердите отмену ордера",
-        "confirmordercancelphrase": "Если Вы уверены, что хотите отменить Ваш ордер, введите Ваш пароль для подтверждения.",
-        "nocancel": "Нет, не отменять",
-        "cancelorder": "Отменить мой ордер",
-        "confirmorder": "Подтвердить <span class='asset_order_modal_type'></span> Ордер",
-        "orderdesc": "Описание ордера",
-        "total": "ВСЕГО <i id='asset_order_total_tooltip' class='fa fa-question-circle' style='color:#4CAA6E' data-toggle='popover' data-placement='right' data-content=''></i>",
-        "qty": "КОЛИЧЕСТВО",
-        "comment": "КОММЕНТАРИЙ",
-        "transferasset": "Отправить Актив",
-        "asset": "Актив",
-        "addcontact": "Добавить контакт",
-        "contactsremember": "<strong>Помните</strong>: Контакты хранятся локально, а не в цепочке блоков",
-        "name": "ИМЯ",
-        "accid": "Адрес аккаунта",
-        "mail": "E-mail адрес",
-        "desc": "ОПИСАНИЕ",
-        "update": "Обновить контакт",
-        "deletecontact": "Удалить контакт",
-        "deletecontactconf": "Вы уверены, что хотите удалить этот контакт?",
-        "deletecontactinfo": "<strong>ИМЯ</strong>: <span id='delete_contact_name'></span>",
-        "contactnodel": "Нет, не удалять",
-        "contactyesdel": "Да, удалить контакт",
-        "issueasset": "Создать Актив",
-        "warningnochange": "<strong>Предупреждение</strong>: После того как Вы введете данные, Вы не сможете изменить эту информацию снова. Убедитесь, что все данные введены правильно.",
-        "assetname": "ИМЯ АКТИВА <i class='fa fa-question-circle show_popover' data-content='Имя актива не является уникальным. Должно быть от 3 до 10 символов.' data-container='body' style='color:#4CAA6E' ></i>",
-        "decimals": "Десятичные <i class='fa fa-question-circle show_popover' data-content='Максимально допустимое количество цифр после запятой для указания количества активов.' data-container='body' style='color:#4CAA6E' ></i>",
-        "issuefee": "КОМИССИЯ <i class='fa fa-exclamation-circle show_popover' data-content='Минимальная комиссия за создание актива - 1,000 NHZ' data-container='body' style='color:red'></i>",
-        "answers": "Ответы",
-        "addanswer": "<i class='fa fa-plus'></i> Добавить ответ",
-        "minnrchoice": "МИНИМАЛЬНОЕ КОЛИЧЕСТВО ВАРИАНТОВ",
-        "maxnrchoice": "МАКСИМАЛЬНОЕ КОЛИЧЕСТВО ВАРИАНТОВ",
-        "castvote": "Отдать Голос",
-        "sendnhz": "ОТПРАВИТЬ NHZ",
-        "amount": "СУММА",
-        "msg": "СООБЩЕНИЕ",
-        "encrypt": "<input type='checkbox' name='encrypt' id='send_message_encrypt' /> Зашифровать сообщение",
-        "setaccinfo": "Установить информацию об аккаунте",
-        "updateaccinfo": "Обновить информацию об аккаунте",
-        "registealias": "Зарегистрировать альяс",
-        "type": "ТИП",
-        "uri": "URI",
-        "account": "Аккаунт",
-        "other": "Другие",
-        "alias": "АЛЬЯС",
-        "reg": "Зарегистрировать",
-        "genwebsitetoken": "Сгенерировать токен вебсайта",
-        "site": "ВЕБСАЙТ",
-        "gen": "Сгенерировать",
-        "blcinfo": "Информация <strong><span id='block_info_modal_block'></span></strong> о блоке",
-        "blcdetails": "Детали блока",
-        "to": "Кому",
-        "from": "От",
-        "noblctrans": "В этом блоке нет транзакций.",
-        "trans": "Информация <strong><span id='transaction_info_modal_transaction'></span></strong> о транзакции",
-        "transdetail": "Детали транзакций",
-        "info": "Информация",
-        "close": "Закрыть",
-        "accountinfo": "Информация <strong><span id='user_info_modal_account'></span></strong> об аккаунте",
-        "accdetailedinfo": "Аккаунт <span id='user_info_modal_account_name_container'>под именем <span id='user_info_modal_account_name' style='font-weight:bold'></span></span> имеет баланс <strong><span id='user_info_modal_account_balance'></span></strong>.",
-        "assets": "Активы",
-        "aliases": "Альясы",
-        "usernotrans": "У этого пользователя нет транзакций.",
-        "usernoali": "У этого пользователя нет альясов.",
-        "usernoassets": "У этого пользователя нет активов",
-        "addascontact": "Добавить в Контакты",
-        "nrsinfo": "Информация о NRS",
-        "nrsstate": "Состояние NRS",
-        "nrsupdate": "Обновление NRS",
-        "chaindownload": "Цепочка блоков еще загружается, проверьте еще раз после полной синхронизации",
-        "nonrsupdate": "NRS нельзя обновить при подключении к тестовой сети.",
-        "havelatest": "У вас установлена актуальная версия. Нет необходимости обновлять.",
-        "newupdate": "Доступно обновление NRS. Рекомендуется обновление.<br /><br /><button type=\"button\" class=\"btn btn-success ignore\" onclick=\"NRS.downloadClientUpdate('release')\">Загрузить NRS <span class=\"nrs_new_version_nr\"></span></button>",
-        "newexperimental": "Доступна новая экспериментальная версия. Не рекомендуется устанавливать, если Вы не уверены.<br /><br /><button type=\"button\" class=\"btn btn-success btn-xs ignore\" onclick=\"NRS.downloadClientUpdate('beta')\">Загрузить NRS <span class=\"nrs_beta_version_nr\"></span></button>",
-        "newboth": "Доступны как основной, так и экспериментальный выпуски. Не рекомендуется устанавливать экспериментальный выпуск, если Вы не уверены.<br /><br /><button type=\"button\" class=\"btn btn-success ignore\" onclick=\"NRS.downloadClientUpdate('release')\">Загрузить NRS <span class=\"nrs_new_version_nr\"></span> - Основная версия</button><button type=\"button\" class=\"btn btn-default ignore\" onclick=\"NRS.downloadClientUpdate('beta')\">Загрузить NRS <span class=\"nrs_beta_version_nr\"></span> - Экспериментальная версия</button>",
-        "drop": "Перетащите скачанный клиент (zip файл) сюда или нажмите для выбора.",
-        "version": "Версия:",
-        "downloadhash": "Хеш-код загрузки:",
-        "officialhash": "Официальный хеш-код:",
-        "lastblock": "Последний блок:",
-        "blocks": "# Блоков:",
-        "nraccounts": "# Аккаунтов:",
-        "lastfeeder": "Последний передатчик:",
-        "nrunlocked": "# Открытых аккаунтов:",
-        "lastfeederh": "Высота последней передачи:",
-        "nrpeers": "# Подключенных узлов:",
-        "totalmemory": "Всего памяти:",
-        "nrtransactions": "# Транзакций:",
-        "freememory": "Свободно памяти:",
+        "leaseyourbal": "Здати в оренду Ваш баланс"
+        "leasewarning": "<strong>Пам'ятайте</strong>: після підтвердження договору оренди, він не може бути скасований".,
+        "rec": "ОДЕРЖУВАЧ"
+        "recacc": "Аккаунт одержувача"
+        "period": "ПЕРІОД <i class='fa fa - question - circle show _ popover' style='color:#4CAA6E' data - content='Кількість блоків, в течії яких триватиме оренда.' data - container='body'></i>",
+        "fee": "КОМІСІЯ"
+        "deadline": "Крайній термін(годинник) ",
+        "phrase": "ПАРОЛЬ"
+        "leasebalancebtn": "Здати баланс в оренду"
+        "confirmforgingstop": "Підтвердіть зупинку форжинга<span class='show _ logout'> &amp; Logout</span>",
+        "confirmphrase": "Якщо Ви упевнені, що хочете зупинити форжинг, введіть Ваш пароль для підтвердження".,
+        "confirmphrasebtn": "Якщо Ви упевнені, що хочете зупинити форжинг, натисніть на кнопку нижче для підтвердження".,
+        "warnsendtoserver": "<strong>Увага</strong>: Ваш пароль буде відправлений на сервер"!,
+        "continueforging": "Продовжити форжинг"
+        "stopforging": "Зупинити форжинг <span class='show _ logout'>і вийти</span>",
+        "confirmforgingstart": "Підтвердіть початок форжинга"
+        "confirmforgingphrase": "Якщо Ви упевнені, що хочете почати форжинг, введіть Ваш пароль для підтвердження".,
+        "confirmforgingphraseclick": "Якщо Ви упевнені, що хочете почати форжинг, натисніть на кнопку нижче для підтвердження".,
+        "startforging": "Почати форжинг"
+        "confirmordercancel": "Підтвердіть відміну ордера"
+        "confirmordercancelphrase": "Якщо Ви упевнені, що хочете відмінити Ваш ордер, введіть Ваш пароль для підтвердження".,
+        "nocancel": "Немає, не відміняти"
+        "cancelorder": "Відмінити мій ордер"
+        "confirmorder": "Підтвердити <span class='asset _ order _ modal _ type'></span> Ордер"
+        "orderdesc": "Опис ордера"
+        "total": "ВСЬОГО <i id='asset _ order _ total _ tooltip' class='fa fa - question - circle' style='color:#4CAA6E' data - toggle='popover' data - placement='right' data - content=''></i>",
+        "qty": "КІЛЬКІСТЬ"
+        "comment": "КОМЕНТАР"
+        "transferasset": "Відправити Актив"
+        "asset": "Актив"
+        "addcontact": "Додати контакт"
+        "contactsremember": "<strong>Пам'ятайте</strong>: Контакти зберігаються локально, а не в ланцюжку блоків"
+        "name": "ІМ'Я"
+        "accid": "Адреса аккаунта"
+        "mail": "E - mail адреса"
+        "desc": "ОПИС"
+        "update": "Оновити контакт"
+        "deletecontact": "Видалити контакт"
+        "deletecontactconf": "Ви упевнені, що хочете видалити цей контакт"?,
+        "deletecontactinfo": "<strong>ІМ'Я</strong>: <span id='delete _ contact _ name'></span>",
+        "contactnodel": "Немає, не видаляти"
+        "contactyesdel": "Так, видалити контакт"
+        "issueasset": "Створити Актив"
+        "warningnochange": "<strong>Попередження</strong>: Після того, як Ви введете дані, Ви не зможете змінити цю інформацію знову. Переконайтеся, що усі дані введені правильно".,
+        "assetname": "ІМ'Я АКТИВУ <i class='fa fa - question - circle show _ popover' data - content='Ім'я активу не є унікальним. Має бути від 3 до 10 символів.' data - container='body' style='color:#4CAA6E'></i>",
+        "decimals": "Десяткові <i class='fa fa - question - circle show _ popover' data - content='Максимально допустима кількість цифр після коми для вказівки кількості активів.' data - container='body' style='color:#4CAA6E'></i>",
+        "issuefee": "КОМІСІЯ <i class='fa fa - exclamation - circle show _ popover' data - content='Мінімальна комісія за створення активу - 1,000 NHZ' data - container='body' style='color: red'></i>",
+        "answers": "Відповіді"
+        "addanswer": "<i class='fa fa - plus'></i> Додати відповідь"
+        "minnrchoice": "МІНІМАЛЬНА КІЛЬКІСТЬ ВАРІАНТІВ"
+        "maxnrchoice": "МАКСИМАЛЬНА КІЛЬКІСТЬ ВАРІАНТІВ"
+        "castvote": "Віддати Голос"
+        "sendnhz": "ВІДПРАВИТИ NHZ"
+        "amount": "СУМА"
+        "msg": "ПОВІДОМЛЕННЯ"
+        "encrypt": "<input type='checkbox' name='encrypt' id='send _ message _ encrypt' /> Зашифрувати повідомлення"
+        "setaccinfo": "Встановити інформацію про аккаунт"
+        "updateaccinfo": "Оновити інформацію про аккаунт"
+        "registealias": "Зареєструвати альяс"
+        "type": "ТИП"
+        "uri": "URI"
+        "account": "Аккаунт"
+        "other": "Інші"
+        "alias": "АЛЬЯС"
+        "reg": "Зареєструвати"
+        "genwebsitetoken": "Згенерувати токен вебсайту"
+        "site": "ВЕБСАЙТ"
+        "gen": "Згенерувати"
+        "blcinfo": "Інформація <strong><span id='block _ info _ modal _ block'></span></strong> про блок"
+        "blcdetails": "Деталі блоку"
+        "to": "Кому"
+        "from": "Від"
+        "noblctrans": "В цьому блоці немає транзакцій".,
+        "trans": "Інформація <strong><span id='transaction _ info _ modal _ transaction'></span></strong> про транзакцію"
+        "transdetail": "Деталі транзакцій"
+        "info": "Інформація"
+        "close": "Закрити"
+        "accountinfo": "Інформація <strong><span id='user _ info _ modal _ account'></span></strong> про аккаунт"
+        "accdetailedinfo": "Аккаунт <span id='user _ info _ modal _ account _ name _ container'>під ім'ям <span id='user _ info _ modal _ account _ name' style='font - weight: bold'></span></span> має баланс <strong><span id='user _ info _ modal _ account _ balance'></span></strong>".,
+        "assets": "Активи"
+        "aliases": "Альяси"
+        "usernotrans": "У цього користувача немає транзакцій".,
+        "usernoali": "У цього користувача немає альясов".,
+        "usernoassets": "У цього користувача немає активів"
+        "addascontact": "Додати в Контакти"
+        "nrsinfo": "Інформація про NRS"
+        "nrsstate": "Стан NRS"
+        "nrsupdate": "Оновлення NRS"
+        "chaindownload": "Ланцюжок блоків ще завантажується, перевірте ще раз після повної синхронізації"
+        "nonrsupdate": "NRS не можна оновити при підключенні до тестової мережі".,
+        "havelatest": "У вас встановлена актуальна версія. Немає необхідності оновлювати".,
+        "newupdate": "Доступне оновлення NRS. Рекомендується оновлення.<br /><br /><button type=\"button\" class=\"btn btn - success ignore\" onclick=\"NRS.downloadClientUpdate('release') \">Завантажити NRS <span class=\"nrs _ new _ version _ nr\"></span></button>",
+        "newexperimental": "Доступна нова експериментальна версія. Не рекомендується встановлювати, якщо Ви не упевнені.<br /><br /><button type=\"button\" class=\"btn btn - success btn - xs ignore\" onclick=\"NRS.downloadClientUpdate('beta') \">Завантажити NRS <span class=\"nrs _ beta _ version _ nr\"></span></button>",
+        "newboth": "Доступні як основний, так і експериментальний випуски. Не рекомендується встановлювати експериментальний випуск, якщо Ви не упевнені.<br /><br /><button type=\"button\" class=\"btn btn - success ignore\" onclick=\"NRS.downloadClientUpdate('release') \">Завантажити NRS <span class=\"nrs _ new _ version _ nr\"></span> - Основна версія</button><button type=\"button\" class=\"btn btn - default ignore\" onclick=\"NRS.downloadClientUpdate('beta') \">Завантажити NRS <span class=\"nrs _ beta _ version _ nr\"></span> - Експериментальна версія</button>",
+        "drop": "Перетягнете викачаний клієнт(zip файл) сюди або натисніть для вибору".,
+        "version": "Версія:",
+        "downloadhash": "Хеш-код завантаження :",
+        "officialhash": "Офіційний хеш-код:",
+        "lastblock": "Останній блок:
+        "blocks": "# Блоків:",
+        "nraccounts": "# Аккаунтів:",
+        "lastfeeder": "Останній передавач:",
+        "nrunlocked": "# Відкритих аккаунтів:",
+        "lastfeederh": "Висота останньої передачі :",
+        "nrpeers": "# Підключених вузлів:",
+        "totalmemory": "Всього пам'яті:",
+        "nrtransactions": "# Транзакцій:",
+        "freememory": "Вільно пам'яті:",
         "nraliases": "# Альясов:",
-        "maxmemory": "Максимально использовано памяти:",
-        "nrorders": "# Ордеров:",
-        "processors": "Процессоры:",
-        "nrassets": "# Активов:",
-        "difficulty": "Сложность:",
-        "nrtrades": "# Сделок:",
-        "totalebal": "Общий баланс:",
-        "nrpolls": "# Опросов:",
-        "time": "Время:",
-        "nrvotes": "# Голосов:",
-        "isscanning": "Идет сканирование:",
-        "accdet": "Данные аккаунта",
-        "accleas": "Аренда Аккаунта",
-        "accountid": "Адрес аккаунта:",
-        "newadressformat": "Адрес в новом формате:",
+        "maxmemory": "Максимально використано пам'яті:",
+        "nrorders": "# Ордерів:",
+        "processors": "Процесори:",
+        "nrassets": "# Активів:",
+        "difficulty": "Складність:",
+        "nrtrades": "# Угод:",
+        "totalebal": "Загальний баланс:",
+        "nrpolls": "# Опитувань:",
+        "time": "Час:",
+        "nrvotes": "# Голосів:",
+        "isscanning": "Йде сканування:",
+        "accdet": "Дані аккаунта"
+        "accleas": "Аренда Аккаунта"
+        "accountid": "Адреса аккаунта :",
+        "newadressformat": "Адреса в новому форматі:",
         "accbalance": "Баланс:",
-        "unconfbal": "Неподтвержденный баланс:",
-        "confbal": "Гарантированный баланс:",
-        "efbal": "Эффективный баланс:",
-        "pubkey": "Публичный ключ:",
-        "lessor": "Арендодатель",
-        "leasyourbal": "Сдать свой баланс в аренду другому аккаунту.",
-        "cnggroup": "Изменить Имя Группы",
-        "typegroup": "Введите новое имя группы.",
-        "oldgroup": "СТАРОЕ ИМЯ ГРУППЫ.",
-        "newgroup": "НОВОЕ ИМЯ ГРУППЫ.",
-        "groupasset": "Группа активов",
-        "choosegroup": "Выберите группу для этого актива.",
-        "group": "ГРУППА",
-        "addtogroup": "Добавить в группу",
-        "removegroup": "Удалить Из Группы",
-        "accinfo": "Информация об аккаунте",
-        "downloadblockchain": "Идет загрузка цепочки блоков<span class='loading_dots'><span>.</span><span>.</span><span>.</span></span><div class='progress progress-striped sm active' style='margin-bottom:5px;margin-top:5px;'><div class='progress-bar progress-bar-success' role='progressbar' aria-valuenow='0' aria-valuemin='0' aria-valuemax='100' style='width: 0%;'><span class='sr-only'>Завершено 0%</span></div></div>",
-	"infomodalalias": "Альяс <strong><span id='alias_info_modal_alias'></span></strong>",
-	"removebookmark": "Удалить из закладок",
-	"edit": "Редактировать"
+        "unconfbal": "непідтверджений баланс:",
+        "confbal": "Гарантований баланс:",
+        "efbal": "Ефективний баланс:",
+        "pubkey": "Публічний ключ:",
+        "lessor": "Орендодавець"
+        "leasyourbal": "Здати свій баланс в оренду іншому аккаунту".,
+        "cnggroup": "Змінити Ім'я Групи"
+        "typegroup": "Введіть нове ім'я групи".,
+        "oldgroup": "СТАРЕ ІМ'Я ГРУПИ".,
+        "newgroup": "НОВЕ ІМ'Я ГРУПИ".,
+        "groupasset": "Група активів"
+        "choosegroup": "Виберіть групу для цього активу".,
+        "group": "ГРУПА"
+        "addtogroup": "Додати в групу"
+        "removegroup": "Видалити З Групи"
+        "accinfo": "Інформація про аккаунт"
+        "downloadblockchain": "Йде завантаження ланцюжка блоків<span class='loading _ dots'><span>.</span><span>.</span><span>.</span></span><div class='progress progress - striped sm active' style='margin - bottom: 5px;margin - top: 5px;'><div class='progress - bar progress - bar - success' role='progressbar' aria - valuenow='0' aria - valuemin='0' aria - valuemax='100' style='width : 0%;'><span class='sr - only'>Завершене 0%</span></div></div>",
+	"infomodalalias": "Альяс <strong><span id='alias _ info _ modal _ alias'></span></strong>",
+	"removebookmark": "Видалити із закладок"
+	"edit": "Редагувати"
     },
 	"js": {
-		"aliasref": "Альяс будет привязан к адресу аккаунта и может быть использован для отправки NHZ, сообщений и т.д...",
-		"containall": "Альяс может содержать любые данные, которые Вы захотите.",
-		"nothingfound": "Ничего не найдено, попробуйте другой запрос.",
-		"nofractions": "Ввод частями не допускается.",
-		"nocomma": "Запятая не допускается, вместо этого используйте точку.",
-		"invalidinput": "Неверный ввод.",
-		"fillin": "Пожалуйста, введите сумму и цену.",
-		"groupsucces": "Имя группы обновлено успешно.",
-		"assetignoresuc": "Актив успешно добавлен в список игнорирования",
-		"assetgrouperem": "Актив успешно удален из группы",
-		"assetaddsuc": "Актив успешно добавлен в группу",
-		"blockuptodate": "Цепочка блоков синхронизирована.",
-		"contactaddedsuc": "Контакт добавлен успешно.",
-		"contactupdatesuc": "Контакт обновлен успешно.",
-		"contactdelete": "Контакт удален успешно.",
-		"waitbc": "Пожалуйста, дождитесь окончания загрузки цепочки блоков.",
-		"bcrescan": "Цепочка блоков сейчас сканируется повторно. Пожалуйста, подождите минуту и попробуйте отправить снова.",
-		"bcdownload": "Цепочка блоков загружается. Пожалуйста, дождитесь полной синхронизации.",
-		"youridis": "Адрес Вашего аккаунта: <strong>",
-		"bcrescanwait": "Цепочка блоков сейчас сканируется повторно. Пожалуйста, дождитесь окончания.",
-		"welcomenewacc": "Добро пожаловать в Ваш новый аккаунт. Вы должны пополнить Ваш баланс некоторым количеством монет. Адрес Вашего аккаунта: <strong>",
-		"unknownerror": "Произошла неизвестная ошибка.",
-		"rsdifferent": "Сгенерированный Reed Solomon адрес отличается от такового в цепочке блоков!",
-		"nopublickey": "<b>Внимание!</b>:  Ваш аккаунт не имеет открытого ключа! Это означает, что Ваш аккаунт не защищен должным образом. Вы должны сделать хотя бы одну исходящую транзакцию, чтобы исправить эту проблему. (<a href='#' data-toggle='modal' data-target='#send_message_modal'>отправить сообщение</a>, <a href='#' data-toggle='modal' data-target='#register_alias_modal'>купить альяс</a>, <a href='#' data-toggle='modal' data-target='#send_money_modal'>отправить NHZ</a>, ...)",
-		"leasedout": "Сдан в Аренду",
-		"leasedoutstart": "Эффективный баланс Вашего аккаунта сдается в аренду начиная с блока ",
-		"untilblock": " до блока ",
-		"toaccount": " Аккаунту <a href='#' data-user='",
-		"leaseeffect": "<strong>Помните</strong>: новая аренда вступит в силу только после окончания текущей аренды.",
-		"leasedsoon": "Скоро начнется аренда",
-		"willbeleased": "Эффективный баланс Вашего аккаунта будет передан в аренду начиная с блока ",
-		"notleasedout": "Эффективный баланс Вашего счета не сдан в аренду.",
-		"oncesubmitted": "<strong>Помните</strong>: после подтверждения договора аренды, он не может быть отменен.",
-		"multiple": "Несколько различных активов были проданы или куплены.",
-		"invalidinputid": "Неверный ввод. Введите поиск по номеру или Reed Solomon номеру аккаунта.",
-		"gensecretwait": "Генерируется Ваш пароль. Пожалуйста, подождите.",
-		"nowordlist": "Не удалось загрузить список слов...",
-		"phraseconfirmed": "Пароль успешно подтвержден. Вы в системе.",
-		"phraseminlength": "Пароль должен содержать не менее 35 символов.",
-		"uppercaseandnumbers": "Поскольку Ваш пароль составляет менее 50 символов, он должен содержать цифры и заглавные буквы.",
-		"phrasesnomatch": "Пароли не совпадают.",
-		"mustenterphrase": "Вы должны ввести Ваш пароль. Если у Вас еше нет пароля, кликните кнопку регистрации ниже.",
-		"noconnect": "Не удалось соединиться с сервером.",
-		"nors": "Не удалось сгенерировать Reed Solomon адрес.",
-		"alreadytaken": "Этот аккаунт уже используется. Пожалуйста, выберите другой пароль.",
-		"rememberlogout": "Всегда правильно осуществляйте выход из аккаунта по окончании сессии, чтобы сбросить пароль из памяти.",
-		"notsecurelength": "Ваш пароль содержит менее 35 символов. Это не безопасно.",
-		"notsecureletter": "Ваш пароль не содержит цифры и заглавные буквы. Это не безопасно.",
-		"warning": "<strong>Внимание</strong>: ",
-		"outdated": "Доступно обновление NRS. Рекомендуется обновление.",
-		"msgrequired": "Сообщение является обязательным полем.",
-		"errnoenc": "Не удалось найти публичный ключ получателя, который необходим для отправки зашифрованных сообщений.",
-		"secreq": "Пароль является обязательным полем.",
-		"secincor": "Неправильный пароль.",
-		"msgsent": "Сообщение отправлено.",
-		"unknownerrormsg": "Произошла неизвестная ошибка. Ваше сообщение может быть не отправлено.",
-		"msgsenthtml": "Ваше сообщение отправлено! <a href='#' data-account='",
-		"msgsenthtmll": "' data-toggle='modal' data-target='#add_contact_modal' style='text-decoration:underline'>Добавить получателя в контакты?</a>",
-		"yourmsgsent": "Ваше сообщение отправлено.",
-		"brandnewwarning": "У Вас новый аккаунт. Вы должны пополнить Ваш баланс некоторым количеством монет. Адрес Вашего аккаунта <strong>",
-		"nooutgoingwarn": "Ваш аккаунт не имеет открытого ключа! Это означает, что Ваш аккаунт не защищен должным образом. Вы должны сделать хотя бы одну исходящую транзакцию, чтобы исправить эту проблему. (<a href='#' data-toggle='modal' data-target='#send_message_modal'>отправить сообщение</a>, <a href='#' data-toggle='modal' data-target='#register_alias_modal'>купить альяс</a>, <a href='#' data-toggle='modal' data-target='#send_money_modal'>отправить NHZ</a>, ...)",
-		"forgestartsuc": "Форжинг успешно запущен.",
-		"forgestopsuc": "Форжинг успешно остановлен.",
-		"noforgestarterror": "Не удалось запустить форжинг, неизвестная ошибка.",
-		"werentforging": "Вы не форжили сначала.",
-		"noforgebcdown": "Идет загрузка цепочки блоков, форжинг в это время невозможен. Пожалуйста, попробуйте еще раз, когда цепочка блоков полностью синхронизируется.",
-		"noforgebcrescan": "Идет повторное сканирование цепочки блоков, форжинг в это время невозможен. Пожалуйста, попробуйте еще раз через минуту.",
-		"noforgepublickey": "Вы не можете заниматься форжингом, т.к. Ваша учетная запись не имеет открытого ключа. Пожалуйста, сделайте хотя бы одну исходящую транзакцию (покупка альяса, перевод средств и т.д.)",
-		"noforgeleasedout": "Ваш эффективный баланс сдан в аренду, поэтому Вы пока не можете заниматься форжингом.",
-		"noforgebalance": "У Вас нулевой эффективный баланс, поэтому Вы пока не можете заниматься форжингом.",
-		"websitereq": "Вебсайт является обязательным полем.",
-		"thegeneratedtoken": "Сгенерированный токен для <strong>",
-		"nogentoken": "Не удалось сгенерировать токен.",
-		"is": "</strong> : <br /><br /><textarea style='width:100%' rows='3'>",
-		"norec": "Не удалось найти публичный ключ получателя, который необходим для отправки зашифрованных сообщений.",
-		"nohexstring":"Не удалось преобразовать шестнадцатеричный код в строку: ",
+		"aliasref": "Альяс буде прив'язаний до адреси аккаунта і може бути використаний для відправки NHZ, повідомлень і т.д.".,
+		"containall": "Альяс може містити будь-які дані, які Ви захочете".,
+		"nothingfound": "Нічого не знайдено, спробуйте інший запит".,
+		"nofractions": "Введення частинами не допускається".,
+		"nocomma": "Кома не допускається, замість цього використайте точку".,
+		"invalidinput": "невірне введення".,
+		"fillin": "Будь ласка, введіть суму і ціну".,
+		"groupsucces": "Ім'я групи оновлене успішно".,
+		"assetignoresuc": "Актив успішно доданий в список ігнорування"
+		"assetgrouperem": "Актив успішно видалений з групи"
+		"assetaddsuc": "Актив успішно доданий в групу"
+		"blockuptodate": "Ланцюжок блоків синхронізований".,
+		"contactaddedsuc": "Контакт доданий успішно".,
+		"contactupdatesuc": "Контакт оновлений успішно".,
+		"contactdelete": "Контакт видалений успішно".,
+		"waitbc": "Будь ласка, дочекайтеся закінчення завантаження ланцюжка блоків".,
+		"bcrescan": "Ланцюжок блоків зараз сканується повторно. Будь ласка, почекайте хвилину і спробуйте відправити знову".,
+		"bcdownload": "Ланцюжок блоків завантажується. Будь ласка, дочекайтеся повної синхронізації".,
+		"youridis": "Адреса Вашого аккаунта : <strong>",
+		"bcrescanwait": "Ланцюжок блоків зараз сканується повторно. Будь ласка, дочекайтеся закінчення".,
+		"welcomenewacc": "Ласкаво просимо у Ваш новий аккаунт. Ви повинні поповнити Ваш баланс деякою кількістю монет. Адреса Вашого аккаунта : <strong>",
+		"unknownerror": "Сталася невідома помилка".,
+		"rsdifferent": "Згенерований Reed Solomon адреса відрізняється від такого в ланцюжку блоків"!,
+		"nopublickey": "<b>Увага!</b>:  Ваш аккаунт не має відкритого ключа! Це означає, що Ваш аккаунт не захищений належним чином. Ви повинні зробити хоч би одну витікаючу транзакцію, щоб виправити цю проблему. (<a href='#' data - toggle='modal' data - target='#send _ message _ modal'>відправити повідомлення</a>, <a href='#' data - toggle='modal' data - target='#register _ alias _ modal'>купити альяс</a>, <a href='#' data - toggle='modal' data - target='#send _ money _ modal'>відправити NHZ</a>, ...)",
+		"leasedout": "Зданий в Оренду"
+		"leasedoutstart": "Ефективний баланс Вашого аккаунта здається в оренду починаючи з блоку ",
+		"untilblock": " до блоку ",
+		"toaccount": " Аккаунту <a href='#' data - user='",
+		"leaseeffect": "<strong>Пам'ятайте</strong>: нова оренда набуде чинності тільки після закінчення поточної оренди".,
+		"leasedsoon": "Скоро почнеться оренда"
+		"willbeleased": "Ефективний баланс Вашого аккаунта буде переданий в оренду починаючи з блоку ",
+		"notleasedout": "Ефективний баланс Вашого рахунку не зданий в оренду".,
+		"oncesubmitted": "<strong>Пам'ятайте</strong>: після підтвердження договору оренди, він не може бути скасований".,
+		"multiple": "Декілька різних активів було продано або куплено".,
+		"invalidinputid": "невірне введення. Введіть пошук по номеру або Reed Solomon номеру аккаунта".,
+		"gensecretwait": "Генерується Ваш пароль. Будь ласка, почекайте".,
+		"nowordlist": "Не вдалося завантажити список слів.".,
+		"phraseconfirmed": "Пароль успішно підтверджений. Ви в системі".,
+		"phraseminlength": "Пароль повинен містити не менше 35 символів".,
+		"uppercaseandnumbers": "Оскільки Ваш пароль складає менше 50 символів, він повинен містити цифри і заголовні букви".,
+		"phrasesnomatch": "Паролі не співпадають".,
+		"mustenterphrase": "Ви повинні ввести Ваш пароль. Якщо у Вас еше немає пароля, кликніть кнопку реєстрації нижче".,
+		"noconnect": "Не вдалося з'єднатися з сервером".,
+		"nors": "Не вдалося згенерувати Reed Solomon адреса".,
+		"alreadytaken": "Цей аккаунт вже використовується. Будь ласка, виберіть інший пароль".,
+		"rememberlogout": "Завжди правильно здійснюйте вихід з аккаунта після закінчення сесії, щоб скинути пароль з пам'яті".,
+		"notsecurelength": "Ваш пароль містить менше 35 символів. Це не безпечно".,
+		"notsecureletter": "Ваш пароль не містить цифри і заголовні букви. Це не безпечно".,
+		"warning": "<strong>Увага</strong>: ",
+		"outdated": "Доступне оновлення NRS. Рекомендується оновлення".,
+		"msgrequired": "Повідомлення є обов'язковим полем".,
+		"errnoenc": "Не вдалося знайти публічний ключ одержувача, який потрібний для відправки зашифрованих повідомлень".,
+		"secreq": "Пароль є обов'язковим полем".,
+		"secincor": "неправильний пароль".,
+		"msgsent": "Повідомлення відправлене".,
+		"unknownerrormsg": "Сталася невідома помилка. Ваше повідомлення може бути не відправлене".,
+		"msgsenthtml": "Ваше повідомлення відправлене! <a href='#' data - account='",
+		"msgsenthtmll": "' data - toggle='modal' data - target='#add _ contact _ modal' style='text - decoration: underline'>Додати одержувача в контакти?</a>",
+		"yourmsgsent": "Ваше повідомлення відправлене".,
+		"brandnewwarning": "У Вас новий аккаунт. Ви повинні поповнити Ваш баланс деякою кількістю монет. Адреса Вашого аккаунта <strong>",
+		"nooutgoingwarn": "Ваш аккаунт не має відкритого ключа! Це означає, що Ваш аккаунт не захищений належним чином. Ви повинні зробити хоч би одну витікаючу транзакцію, щоб виправити цю проблему. (<a href='#' data - toggle='modal' data - target='#send _ message _ modal'>відправити повідомлення</a>, <a href='#' data - toggle='modal' data - target='#register _ alias _ modal'>купити альяс</a>, <a href='#' data - toggle='modal' data - target='#send _ money _ modal'>відправити NHZ</a>, ...)",
+		"forgestartsuc": "Форжинг успішно запущений".,
+		"forgestopsuc": "Форжинг успішно зупинений".,
+		"noforgestarterror": "Не вдалося запустити форжинг, невідома помилка".,
+		"werentforging": "Ви не форжили спочатку".,
+		"noforgebcdown": "Йде завантаження ланцюжка блоків, форжинг в цей час неможливий. Будь ласка, спробуйте ще раз, коли ланцюжок блоків повністю синхронізується".,
+		"noforgebcrescan": "Йде повторне сканування ланцюжка блоків, форжинг в цей час неможливий. Будь ласка, спробуйте ще раз через хвилину".,
+		"noforgepublickey": "Ви не можете займатися форжингом, оскільки. Ваш обліковий запис не має відкритого ключа. Будь ласка, зробіть хоч би одну витікаючу транзакцію(купівля альяса, переказ коштів і так далі) ",
+		"noforgeleasedout": "Ваш ефективний баланс зданий в оренду, тому Ви доки не можете займатися форжингом".,
+		"noforgebalance": "У Вас нульовий ефективний баланс, тому Ви доки не можете займатися форжингом".,
+		"websitereq": "Вебсайт є обов'язковим полем".,
+		"thegeneratedtoken": "Згенерований токен для <strong>",
+		"nogentoken": "Не вдалося згенерувати токен".,
+		"is": "</strong> : <br /><br /><textarea style='width: 100%' rows='3'>",
+		"norec": "Не вдалося знайти публічний ключ одержувача, який потрібний для відправки зашифрованих повідомлень".,
+		"nohexstring": "Не вдалося перетворити шістнадцятиричний код в рядок: ",
 		"to": "<strong>Кому</strong>: ",
-		"from": "<strong>От</strong>: ",
-		"viewinae": "'>Кликните здесь</a> чтобы найти этот актив на Бирже Активов.",
-		"hasbeensent": "NHZ отправлено! <a href='#' data-account='",
-		"addtocontacts": "' data-toggle='modal' data-target='#add_contact_modal' style='text-decoration:underline'>Добавить получателя в Контакты?</a>",
-		"hasbeensentt": "NHZ отправлено!",
-		"rechasbal": "Аккаунт получателя имеет открытый ключ и у него в балансе ",
-		"malformed": "Неверный формат Адреса получателя, пожалуйста исправьте.",
-		"wannatype": "Если вы хотите ввести имя альяса, введите перед ним символ @",
-		"recunknown": "Адрес получателя является неизвестным, что означает, что он никогда не имел входящих или исходящих транзакций. Пожалуйста, перепроверьте адрес получателя перед отправкой.",
-		"recprob": "Существует проблема с Адресом получателя: ",
-		"recnotrans": "Аккаунт получателя не имеет открытого ключа, что означает, что он никогда не имел входящих или исходящих транзакций. У него на балансе ",
-		"doublecheck": " NHZ. Пожалуйста, перепроверьте адрес получателя перед отправкой.",
-		"rectranslate": "Адрес получателя имеет номер счета <strong>",
-		"didyoumean": "Неверный адрес получателя, возможно Вы имели в виду <span class='malformed_address' data-address='",
-		"didyoumeann": "Неверный адрес получателя, возможно Вы имели в виду:<ul>",
-		"contactlinksto": "Контакт связан с аккаунтом <strong>",
-		"err": "Ошибка: ",
-		"errnoali": "Альяс не существует.",
-		"aliaslinksto": "Альяс связан с аккаунтом <strong>",
-		"aliaslastadj": " Альяс был скорректирован в последний раз ",
-		"aliasnoacclink": "Псевдоним не связан с учетной записью. ",
-		"uriempty": "Пустой URI.",
+		"from": "<strong>Від</strong>: ",
+		"viewinae": "'>Кликніть тут</a> щоб знайти цей актив на Біржі Активів".,
+		"hasbeensent": "NHZ відправлене! <a href='#' data - account='",
+		"addtocontacts": "' data - toggle='modal' data - target='#add _ contact _ modal' style='text - decoration: underline'>Додати одержувача в Контакти?</a>",
+		"hasbeensentt": "NHZ відправлене"!,
+		"rechasbal": "Аккаунт одержувача має відкритий ключ і у нього у балансі ",
+		"malformed": "невірний формат Адреси одержувача, будь ласка виправіть".,
+		"wannatype": "Якщо ви хочете ввести ім'я альяса, введіть перед ним символ @",
+		"recunknown": "Адреса одержувача є невідомою, що означає, що він ніколи не мав транзакцій, що входять або витікаючих. Будь ласка, перевірте ще раз адресу одержувача перед відправкою".,
+		"recprob": "Існує проблема з Адресою одержувача : ",
+		"recnotrans": "Аккаунт одержувача не має відкритого ключа, що означає, що він ніколи не мав транзакцій, що входять або витікаючих. У нього на балансі ",
+		"doublecheck": " NHZ. Будь ласка, перевірте ще раз адресу одержувача перед відправкою".,
+		"rectranslate": "Адреса одержувача має номер рахунку <strong>",
+		"didyoumean": "невірна адреса одержувача, можливо Ви мали на увазі <span class='malformed _ address' data - address='",
+		"didyoumeann": "невірна адреса одержувача, можливо Ви мали на увазі :<ul>",
+		"contactlinksto": "Контакт пов'язаний з аккаунтом <strong>",
+		"err": "Помилка: ",
+		"errnoali": "Альяс не існує".,
+		"aliaslinksto": "Альяс пов'язаний з аккаунтом <strong>",
+		"aliaslastadj": " Альяс був скоректований востаннє ",
+		"aliasnoacclink": "Псевдонім не пов'язаний з обліковим записом. ",
+		"uriempty": "Порожній URI".,
 		"uriis": "URI альяса '",
-		"aliasemptyuri": "Альяс ссылается на пустой URI.",
-		"aliasnoexist": "Альяс не существует.",
-		"proceed": "Загруженная версия была проверена, хэш-код является правильным. Вы можете продолжить установку.",
-		"noproceed": "Хэш-код загруженной версии не соответствует заданному в цепочке блоков хэш-коду. НЕ УСТАНАВЛИВАЙТЕ!"
-		}
+		"aliasemptyuri": "Альяс посилається на порожній URI".,
+		"aliasnoexist": "Альяс не існує".,
+		"proceed": "Завантажена версія була перевірена, хэш-код є правильним. Ви можете продовжити установку".,
+		"noproceed": "Хэш-код завантаженої версії не відповідає заданому в ланцюжку блоків хэш-коду. НЕ ВСТАНОВЛЮЙТЕ"!		}
 }
